@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.tjkdhuwei</groupId>
+  <artifactId>Memcached-Java-Client</artifactId>
+  <versioning>
+    <release>4.0.8-ntes</release>
+    <versions>
+      <version>4.0.8-ntes</version>
+    </versions>
+    <lastUpdated>20171012072958</lastUpdated>
+  </versioning>
+</metadata>
